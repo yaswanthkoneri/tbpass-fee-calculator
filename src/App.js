@@ -202,8 +202,6 @@ function App() {
         </Table>
       </div>
     </>
-  );
-}
     </div>
   );
 }
